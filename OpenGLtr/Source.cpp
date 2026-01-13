@@ -163,6 +163,7 @@ int main() {
 		0.2f, 0.2f, 0.0f, // color
 		0.25f, 0.8f, 0.0f,
 		0.2f, 0.2f, 0.0f  // color
+
 	};
 
 	GLuint VAO, VBO;
